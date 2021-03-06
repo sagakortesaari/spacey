@@ -1,9 +1,9 @@
 {
     "name": "spacey-vscode",
     "displayName": "spacey",
-    "description": "Spacey theme with pastel colors. Your new favorite theme!",
+    "description": "Dark purple theme with pastel colors. Your new fav <3",
     "publisher": "sagakortesaari",
-    "version": "1.0.0",
+    "version": "1.0.4",
     "icon": "icon.png",
     "repository": {
         "type": "git",

@@ -25,6 +25,8 @@
 		"editorWidget.border": "#908DFF",
 		"editor.lineHighlightBorder": "#1F1B35",
 		"editorGroup.dropBackground": "#5c528b94",
+		"editorLineNumber.foreground": "#C3B5FF",
+		"editorLineNumber.activeForeground": "#908DFF",
 		// Activity bar
 		"activityBarBadge.background": "#908DFF",
 		"activityBar.activeBorder": "#908DFF",
@@ -39,10 +41,10 @@
 		"input.background": "#5c528b",
 		"input.border": "#5c528b",
 		// Tabs
-		"tab.activeBackground": "#241f3d",
+		"tab.activeBackground": "#5c528b",
 		"tab.activeBorderTop": "#5c528b",
 		"tab.hoverBackground": "#5c528b",
-		"tab.inactiveBackground": "#5c528b",
+		"tab.inactiveBackground": "#241f3d",
 		"editorGroupHeader.tabsBackground": "#1F1B35",
 		//Status bar
 		"statusBar.background": "#241f3d",
@@ -58,6 +60,8 @@
 		//Title bar
 		"titleBar.activeBackground": "#1F1B35",
 		"titleBar.inactiveBackground": "#1F1B35",
+		"titleBar.activeForeground": "#C3B5FF",
+		"titleBar.inactiveForeground": "#5c528b",
 		// Button
 		"button.background": "#908DFF",
 		"button.hoverBackground": "#5c528b",
@@ -71,9 +75,11 @@
 		"terminal.foreground": "#e6e6ff",
 		"terminalCursor.foreground": "#EDBEE3",
 		"badge.background": "#FF93F4",
+		"terminal.selectionBackground": "#5c528b",
 		// Scrollbar
-		"scrollbarSlider.activeBackground": "#5c528b",
-		"scrollbarSlider.hoverBackground": "#5c528b",
+		"scrollbarSlider.activeBackground": "#C3B5FF",
+		"scrollbarSlider.hoverBackground": "#C3B5FF",
+		"scrollbarSlider.background": "#5c528b",
 		// Command palette
 		"quickInput.background": "#5c528b",
 		"quickInput.list.focusBackground": "#1F1B35",
