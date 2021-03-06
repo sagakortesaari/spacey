@@ -24,6 +24,7 @@
 		"editorWidget.background": "#5c528b",
 		"editorWidget.border": "#908DFF",
 		"editor.lineHighlightBorder": "#1F1B35",
+		"editorGroup.dropBackground": "#5c528b94",
 		// Activity bar
 		"activityBarBadge.background": "#908DFF",
 		"activityBar.activeBorder": "#908DFF",
@@ -36,6 +37,7 @@
 		"sideBar.foreground": "#C3B5FF",
 		// Input box background
 		"input.background": "#5c528b",
+		"input.border": "#5c528b",
 		// Tabs
 		"tab.activeBackground": "#241f3d",
 		"tab.activeBorderTop": "#5c528b",
@@ -72,6 +74,15 @@
 		// Scrollbar
 		"scrollbarSlider.activeBackground": "#5c528b",
 		"scrollbarSlider.hoverBackground": "#5c528b",
+		// Command palette
+		"quickInput.background": "#5c528b",
+		"quickInput.list.focusBackground": "#1F1B35",
+		// Settings
+		"settings.dropdownListBorder": "#908DFF",
+		"settings.dropdownBorder": "#5c528b",
+		"settings.focusedRowBackground": "#5c528bb6",
+		"settings.modifiedItemIndicator": "#908DFF",
+
 	},
 	"tokenColors": [
 		{

@@ -1,9 +1,18 @@
 {
-    "name": "spacey",
-    "displayName": "Spacey",
-    "description": "Theme with spacey colors",
+    "name": "spacey-vscode",
+    "displayName": "spacey",
+    "description": "Spacey theme with pastel colors. Your new favorite theme!",
     "publisher": "sagakortesaari",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sagakortesaari/spacey"
+    },
+    "bugs": {
+        "url": "https://github.com/sagakortesaari/spacey/issues",
+        "email": "saga@sagak.se"
+    },
     "engines": {
         "vscode": "^1.54.0"
     },
