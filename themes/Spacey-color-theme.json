@@ -39,17 +39,16 @@
 
 		// Tabs
 		"tab.activeBackground": "#241f3d",
-		"tab.activeBorderTop": "#908DFF",
-		"tab.hoverBackground": "#908DFF",
+		"tab.activeBorderTop": "#5c528b",
+		"tab.hoverBackground": "#5c528b",
 		"tab.inactiveBackground": "#5c528b",
 		"editorGroupHeader.tabsBackground": "#1F1B35",
-		
 
 		//Status bar
 		"statusBar.background": "#241f3d",
 
 		// Files 
-		"list.hoverBackground": "#908DFF",
+		"list.hoverBackground": "#5c528b",
 		"list.activeSelectionBackground": "#5c528b",
 		"list.inactiveSelectionBackground": "#5c528b",
 		"list.activeSelectionForeground": "#908DFF",
@@ -62,7 +61,21 @@
 		"titleBar.activeBackground": "#1F1B35",
 
 		// Button
-		"button.background": "#908DFF"
+		"button.background": "#908DFF",
+
+		// Menu colors
+		"menu.background": "#5c528b",
+
+		// Notifications
+		"notifications.background": "#5c528b",
+
+		// Dropdowns
+		"dropdown.background": "#5c528b",
+
+		// Terminal
+		"terminal.foreground": "#e6e6ff",
+
+		"badge.background": "#FF93F4"
 	},
 	"tokenColors": [
 		{
