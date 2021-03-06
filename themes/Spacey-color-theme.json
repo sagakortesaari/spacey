@@ -18,7 +18,7 @@
 		// Editor
 		"editor.background": "#1F1B35",
 		"editor.foreground": "#C3B5FF",
-		"editor.selectionBackground": "#5c528b",
+		"editor.selectionBackground": "#5c528b52",
 		"editor.findMatchBackground": "#CBFFB2",
 		"editorBracketMatch.background": "#5c528b",
 		"editorWidget.background": "#5c528b",
