@@ -31,16 +31,28 @@
 		// Side bar
 		"sideBar.background": "#241f3d",
 		"sideBarTitle.foreground": "#8d8d91",
+		"sideBarSectionHeader.background": "#241f3d",
+		"sideBar.foreground": "#C3B5FF",
+
+		// Input box background
+		"input.background": "#5c528b",
 
 		// Tabs
 		"tab.activeBackground": "#241f3d",
 		"tab.activeBorderTop": "#908DFF",
 		"tab.hoverBackground": "#908DFF",
+		"tab.inactiveBackground": "#5c528b",
+		"editorGroupHeader.tabsBackground": "#1F1B35",
+		
+
+		//Status bar
+		"statusBar.background": "#241f3d",
 
 		// Files 
 		"list.hoverBackground": "#908DFF",
-		"list.activeSelectionBackground": "#908DFF",
-		"list.inactiveSelectionBackground": "#908DFF",
+		"list.activeSelectionBackground": "#5c528b",
+		"list.inactiveSelectionBackground": "#5c528b",
+		"list.activeSelectionForeground": "#908DFF",
 
 		// Panel
 		"panel.background": "#241f3d",
