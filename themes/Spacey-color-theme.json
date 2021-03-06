@@ -1,81 +1,69 @@
 {
 	"name": "Spacey",
 	"type": "dark",
-
 	/*
 		Theme palette:
 		LIGHT-PURPLE: #C3B5FF
 		DARK-PURPLE: #908DFF
 		YELLOW: #FFFBC6
 		DARK-PINK: #FF93F4
-		LIGHT-PINK: #FFB6D9
+		LIGHT-PINK: #EDBEE3
 		GREEN: #CBFFB2
 
 	*/
-
 	"colors": {
 		// Links
 		"textLink.activeForeground": "#C3B5FF",
 		"textLink.foreground": "#908DFF",
-
 		// Editor
 		"editor.background": "#1F1B35",
 		"editor.foreground": "#C3B5FF",
-
+		"editor.selectionBackground": "#5c528b",
+		"editor.findMatchBackground": "#CBFFB2",
 		// Activity bar
 		"activityBarBadge.background": "#908DFF",
 		"activityBar.activeBorder": "#908DFF",
 		"activityBar.foreground": "#C3B5FF",
 		"activityBar.background": "#1F1B35",
-		
 		// Side bar
 		"sideBar.background": "#241f3d",
-		"sideBarTitle.foreground": "#8d8d91",
+		"sideBarTitle.foreground": "#5c528b",
 		"sideBarSectionHeader.background": "#241f3d",
 		"sideBar.foreground": "#C3B5FF",
-
 		// Input box background
 		"input.background": "#5c528b",
-
 		// Tabs
 		"tab.activeBackground": "#241f3d",
 		"tab.activeBorderTop": "#5c528b",
 		"tab.hoverBackground": "#5c528b",
 		"tab.inactiveBackground": "#5c528b",
 		"editorGroupHeader.tabsBackground": "#1F1B35",
-
 		//Status bar
 		"statusBar.background": "#241f3d",
-
 		// Files 
 		"list.hoverBackground": "#5c528b",
 		"list.activeSelectionBackground": "#5c528b",
 		"list.inactiveSelectionBackground": "#5c528b",
 		"list.activeSelectionForeground": "#908DFF",
-
 		// Panel
 		"panel.background": "#241f3d",
 		"panel.border": "#241f3d",
-
 		//Title bar
 		"titleBar.activeBackground": "#1F1B35",
-
 		// Button
 		"button.background": "#908DFF",
-
 		// Menu colors
 		"menu.background": "#5c528b",
-
 		// Notifications
 		"notifications.background": "#5c528b",
-
 		// Dropdowns
 		"dropdown.background": "#5c528b",
-
 		// Terminal
 		"terminal.foreground": "#e6e6ff",
-
-		"badge.background": "#FF93F4"
+		"badge.background": "#FF93F4",
+		// Scrollbar
+		"scrollbarSlider.activeBackground": "#5c528b",
+		"scrollbarSlider.hoverBackground": "#5c528b",
 	},
 	"tokenColors": [
 		{
@@ -157,7 +145,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#FF93F4"
 			}
 		},
 		{
@@ -179,7 +167,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f0a471"
+				"foreground": "#EDBEE3"
 			}
 		},
 		{
@@ -205,7 +193,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#FFB6D9"
+				"foreground": "#FF93F4"
 			}
 		},
 		{
@@ -259,7 +247,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#FF93F4"
 			}
 		},
 		{
@@ -280,7 +268,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#FF93F4"
 			}
 		},
 		{
