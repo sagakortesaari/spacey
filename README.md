@@ -4,6 +4,10 @@
 </p>
 A dark purple VSCode theme with beautiful pastel colors ✨
 
+<p align="center">
+  <img src="spacey_theme.png">
+</p>
+
 ## Theme color palette
 ![color-palette-pic](color_palette.png)
 
