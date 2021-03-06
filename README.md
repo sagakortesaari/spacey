@@ -1,6 +1,6 @@
 # spacey ✨
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sagakortesaari/spacey/main/logo-readme.png">
+  <img src="https://github.com/sagakortesaari/spacey/blob/main/logo_readme.png?raw=true">
 </p>
 A dark purple VSCode theme with beautiful pastel colors ✨
 
