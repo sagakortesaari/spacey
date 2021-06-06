@@ -89,7 +89,9 @@
 		"settings.focusedRowBackground": "#5c528bb6",
 		"settings.modifiedItemIndicator": "#908DFF",
 		// Debugging
-		"debugToolBar.background": "#5c528b"
+		"debugToolBar.background": "#5c528b",
+		// Panel
+		"panelTitle.activeForeground": "#C3B5FF"
 
 	},
 	"tokenColors": [
