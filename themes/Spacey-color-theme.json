@@ -88,6 +88,8 @@
 		"settings.dropdownBorder": "#5c528b",
 		"settings.focusedRowBackground": "#5c528bb6",
 		"settings.modifiedItemIndicator": "#908DFF",
+		// Debugging
+		"debugToolBar.background": "#5c528b"
 
 	},
 	"tokenColors": [
