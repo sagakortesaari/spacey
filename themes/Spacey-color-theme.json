@@ -19,7 +19,7 @@
 		"editor.background": "#1F1B35",
 		"editor.foreground": "#C3B5FF",
 		"editor.selectionBackground": "#5c528b52",
-		"editor.findMatchBackground": "#CBFFB2",
+		"editor.findMatchBackground": "#5c528b",
 		"editorBracketMatch.background": "#5c528b",
 		"editorWidget.background": "#5c528b",
 		"editorWidget.border": "#908DFF",
@@ -212,19 +212,10 @@
 		{
 			"name": "JavaScript variables",
 			"scope": [
-				"variable.other.object.js",
+				"variable.other"
 			],
 			"settings": {
-				"foreground": "#EDBEE3"
-			}
-		},
-		{
-			"name": "Block Level Variables",
-			"scope": [
-				"meta.block variable.other"
-			],
-			"settings": {
-				"foreground": "#C3B5FF"
+				"foreground": "#FF93F4"
 			}
 		},
 		{
@@ -236,7 +227,8 @@
 				"constant.character",
 				"constant.escape",
 				"keyword.other.unit",
-				"keyword.other"
+				"keyword.other",
+				"meta.block"
 			],
 			"settings": {
 				"foreground": "#EDBEE3"
